@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "_6TTI_DayaniPoty_Heritage_Abstract/1.0.0": {
+        "runtime": {
+          "_6TTI_DayaniPoty_Heritage_Abstract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_6TTI_DayaniPoty_Heritage_Abstract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

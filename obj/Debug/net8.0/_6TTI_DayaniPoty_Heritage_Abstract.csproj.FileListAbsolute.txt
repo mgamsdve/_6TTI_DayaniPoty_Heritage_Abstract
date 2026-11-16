@@ -1,0 +1,14 @@
+/Users/mgams/Cours/_6TTI_DayaniPoty_Heritage_Abstract/bin/Debug/net8.0/_6TTI_DayaniPoty_Heritage_Abstract
+/Users/mgams/Cours/_6TTI_DayaniPoty_Heritage_Abstract/bin/Debug/net8.0/_6TTI_DayaniPoty_Heritage_Abstract.deps.json
+/Users/mgams/Cours/_6TTI_DayaniPoty_Heritage_Abstract/bin/Debug/net8.0/_6TTI_DayaniPoty_Heritage_Abstract.runtimeconfig.json
+/Users/mgams/Cours/_6TTI_DayaniPoty_Heritage_Abstract/bin/Debug/net8.0/_6TTI_DayaniPoty_Heritage_Abstract.dll
+/Users/mgams/Cours/_6TTI_DayaniPoty_Heritage_Abstract/bin/Debug/net8.0/_6TTI_DayaniPoty_Heritage_Abstract.pdb
+/Users/mgams/Cours/_6TTI_DayaniPoty_Heritage_Abstract/obj/Debug/net8.0/_6TTI_DayaniPoty_Heritage_Abstract.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mgams/Cours/_6TTI_DayaniPoty_Heritage_Abstract/obj/Debug/net8.0/_6TTI_DayaniPoty_Heritage_Abstract.AssemblyInfoInputs.cache
+/Users/mgams/Cours/_6TTI_DayaniPoty_Heritage_Abstract/obj/Debug/net8.0/_6TTI_DayaniPoty_Heritage_Abstract.AssemblyInfo.cs
+/Users/mgams/Cours/_6TTI_DayaniPoty_Heritage_Abstract/obj/Debug/net8.0/_6TTI_DayaniPoty_Heritage_Abstract.csproj.CoreCompileInputs.cache
+/Users/mgams/Cours/_6TTI_DayaniPoty_Heritage_Abstract/obj/Debug/net8.0/_6TTI_DayaniPoty_Heritage_Abstract.dll
+/Users/mgams/Cours/_6TTI_DayaniPoty_Heritage_Abstract/obj/Debug/net8.0/refint/_6TTI_DayaniPoty_Heritage_Abstract.dll
+/Users/mgams/Cours/_6TTI_DayaniPoty_Heritage_Abstract/obj/Debug/net8.0/_6TTI_DayaniPoty_Heritage_Abstract.pdb
+/Users/mgams/Cours/_6TTI_DayaniPoty_Heritage_Abstract/obj/Debug/net8.0/_6TTI_DayaniPoty_Heritage_Abstract.genruntimeconfig.cache
+/Users/mgams/Cours/_6TTI_DayaniPoty_Heritage_Abstract/obj/Debug/net8.0/ref/_6TTI_DayaniPoty_Heritage_Abstract.dll
